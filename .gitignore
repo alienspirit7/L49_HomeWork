@@ -109,9 +109,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # =============================================================================
-# Screenshots (auto-generated; committed intentionally via explicit git add)
+# Screenshots — tracked intentionally
 # =============================================================================
-screenshots/
+# screenshots/ is NOT ignored — kept for README documentation
 
 # =============================================================================
 # Explicitly NOT ignored — always track these
